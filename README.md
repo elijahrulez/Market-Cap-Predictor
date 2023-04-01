@@ -1,2 +1,1 @@
-# Market-Cap-Predictor
-first project on github, and first project ever in machine learning, any for of feedback would mean everything to me.
+This is my first ever project (well fully done project in coding) this project is something I have been working on for quite some time, I am a beginner in Machine Learning, and coding in general. what this code does though is once you put in a new value for annual revenue (note it is in Billions, I'll work on adding millions, etc) and press enter, it'll give a new prediction per input for the predicted Market Cap. please give any type of feedback as this is my first ever project, and model I have worked with.
